@@ -1,4 +1,8 @@
-# corep_reporting_assistant
+# LLM_assisted_Corep_reporting_assistant
+
+<img width="1009" height="688" alt="image" src="https://github.com/user-attachments/assets/6e9b94ab-d8e5-4456-827e-4e881c079b96" />
+<img width="1009" height="697" alt="image" src="https://github.com/user-attachments/assets/e5d914aa-9b30-4bdb-be97-6f0b55ba7116" />
+
 
 A prototype LLM-assisted reporting assistant for the Prudential Regulation Authority (PRA) COREP C 01.00 (Own Funds) template.
 
