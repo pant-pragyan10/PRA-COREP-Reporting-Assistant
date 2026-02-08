@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+env/
+.venv/
+venv/
+
+# Virtual environment
+.venv/
+
+# Streamlit secrets (do NOT commit)
+.streamlit/secrets.toml
+
+# Vector index and caches
+vector_index/
+
+# Editor files
+.DS_Store
+*.swp

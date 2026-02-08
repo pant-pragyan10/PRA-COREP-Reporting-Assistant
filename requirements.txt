@@ -1,0 +1,10 @@
+streamlit
+pydantic
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+pypdf
+pandas
+openpyxl
+groq
